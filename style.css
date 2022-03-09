@@ -21,3 +21,9 @@ Siemano {
 #Siemano {
  text-align: center;
 }
+
+#HEADER {
+ background-color: grey;
+ width: 100%;
+ height: 140px;
+}
